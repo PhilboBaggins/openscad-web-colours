@@ -100,7 +100,6 @@ WEB_COLOURS_CYAN = [
     "LightCyan",
 ];
 
-
 WEB_COLOURS_BROWN = [
     "Maroon",
     "Brown",
@@ -120,7 +119,6 @@ WEB_COLOURS_BROWN = [
     "BlanchedAlmond",
     "Cornsilk",
 ];
-
 
 WEB_COLOURS_GREEN = [
     "DarkGreen",
@@ -144,7 +142,6 @@ WEB_COLOURS_GREEN = [
     "GreenYellow",
     "PaleGreen",
 ];
-
 
 WEB_COLOURS_WHITE = [
     "MistyRose",
