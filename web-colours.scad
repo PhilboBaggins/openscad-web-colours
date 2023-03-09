@@ -193,6 +193,4 @@ WEB_COLOURS_ALL = flatten([
     WEB_COLOURS_GRAY_BLACK,
 ]);
 
-function randArrayElement(list) = list[rands(0, len(list), 1)[0]];
-
-echo(randArrayElement(WEB_COLOURS_ALL));
+function randElementFromArray(list) = list[rands(0, len(list), 1)[0]];
